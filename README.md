@@ -1,16 +1,19 @@
-## Hi there 👋
+Olá meu nome é Caio estou cursando Análise e Desenvolvimento de sistemas.
+<div>
+  <a heref = "https://github.com/caio180">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio180&show_icons=true&theme=merko"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio180&layout=compact&theme=merko"/>
+</div>
+<div>
+<h3 align= style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">
+  Linguagens e Ferramentas
+</h3>
 
-<!--
-**caio180/caio180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
