@@ -1,4 +1,4 @@
-Olá meu nome é Caio estou cursando Análise e Desenvolvimento de sistemas.
+Olá meu nome é Caio e eu estudo Análise e Desenvolvimento de sistemas.
 <div>
   <a heref = "https://github.com/caio180">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio180&show_icons=true&theme=merko"/>
