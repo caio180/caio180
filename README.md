@@ -10,9 +10,6 @@ Olá, meu nome é **Caio** e sou estudante de **Análise e Desenvolvimento de Si
 ---
 
 ## Linguagens e Ferramentas
-### Linguagens e Ferramentas
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="40" height="40"/>
