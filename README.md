@@ -1,4 +1,5 @@
-Olá, meu nome é **Caio** e sou estudante de **Análise e Desenvolvimento de Sistemas**.
+Olá, meu nome é **Caio** sou estudante de Análise e Desenvolvimento de Sistemas, com foco em programação e desenvolvimento de software.
+
 
 <div>
   <a href="https://github.com/caio180">
