@@ -11,7 +11,8 @@ Olá, meu nome é **Caio** sou estudante de Análise e Desenvolvimento de Sistem
 ---
 
 ## Linguagens e Ferramentas
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="40" height="40"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
