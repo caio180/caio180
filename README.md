@@ -1,4 +1,4 @@
-Olá, meu nome é **Caio** sou estudante de Análise e Desenvolvimento de Sistemas, com foco em programação e desenvolvimento de software.
+Olá, meu nome é **Caio** sou estudante tecnico em Desenvolvimento de Sistemas, com foco em programação e desenvolvimento de software.
 
 
 <div>
