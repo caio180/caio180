@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Caio  
+## 👋 Olá, eu sou o Caio!  
 
 🎓 Estudante técnico em Desenvolvimento de Sistemas  
 💻 Focado em Desenvolvimento de Software  
