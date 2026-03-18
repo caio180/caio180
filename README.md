@@ -16,6 +16,16 @@
 
 ---
 
+## 📊 Estatísticas do GitHub  
+
+![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caio180&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio180&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=caio180&theme=tokyonight)
+
+---
+
 ## 🌐 Contato  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-lima-viana-004759397/)
