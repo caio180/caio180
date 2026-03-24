@@ -40,21 +40,7 @@
 
 ---
 
-<<<<<<< HEAD
-## 🌐 Contato
-=======
-## 📊 Estatísticas do GitHub  
-
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caio180&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio180&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=caio180&theme=tokyonight)
-
----
-
 ## 🌐 Contato  
->>>>>>> ace411290852cd67b590e396f916b452c244c2f8
 
 <div align="center">
 <a href="https://www.linkedin.com/in/caio-lima-viana-004759397/">
