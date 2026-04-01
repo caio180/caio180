@@ -31,9 +31,9 @@
 
 ## 📊 Estatísticas do GitHub  
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caio180&show_icons=true&theme=tokyonight)
+![Caio GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=caio180&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio180&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caio180&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=caio180&theme=tokyonight)
 
