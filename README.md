@@ -1,11 +1,13 @@
-## 👋 Olá, eu sou o Caio!
+<div align="center">
 
-🎓 Estudante técnico em Desenvolvimento de Sistemas  
-💻 Focado em Desenvolvimento de Software  
-🗄️ Interesse especial em Back-end e Banco de Dados  
-🚀 Sempre aprendendo, evoluindo e desenvolvendo novos projetos
+<h1> Bem-vindo ao meu perfil </h1>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2596BE&width=800&lines=👋+Olá,+eu+sou+o+Caio!;🎓+Estudante+técnico+em+Desenvolvimento+de+Sistemas;💻+Focado+em+Desenvolvimento+de+Software;🗄️+Interesse+em+Back-end+e+Banco+de+Dados;🚀+Sempre+aprendendo,+evoluindo+e+desenvolvendo+projetos" alt="Typing SVG" />
+</a>
+
+</div>
+
 
 ## 💻 Tecnologias 
 
@@ -30,6 +32,8 @@
 
 </div>
 
+---
+
 ## 📊 Estatísticas do GitHub  
 
 ![Caio GitHub Stats](https://github-readme-stats.lxk.cool/api?username=caio180&show_icons=true&theme=tokyonight&bg_color=0d1117)
@@ -37,7 +41,6 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caio180&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=caio180&theme=tokyonight)
-
 
 ---
 
