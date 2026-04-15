@@ -1,15 +1,16 @@
 <div align="center">
 
-<h1> Bem-vindo ao meu perfil </h1>
+<h1>👋 Bem-vindo ao meu perfil</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2596BE&width=800&lines=👋+Olá,+eu+sou+o+Caio!;🎓+Estudante+técnico+em+Desenvolvimento+de+Sistemas;💻+Focado+em+Desenvolvimento+de+Software;🗄️+Interesse+em+Back-end+e+Banco+de+Dados;🚀+Sempre+aprendendo,+evoluindo+e+desenvolvendo+projetos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2596BE&width=800&lines=👋+Olá,+eu+sou+o+Caio!;🎓+Estudante+técnico+em+Desenvolvimento+de+Sistemas;💻+Focado+em+Desenvolvimento+de+Software;🗄️+Interesse+em+Back-end+e+Banco+de+Dados;🚀+Sempre+aprendendo,+evoluindo+e+desenvolvendo+projetos" />
 </a>
 
 </div>
 
+---
 
-## 💻 Tecnologias 
+## 💻 Tecnologias
 
 <div align="center">
 
@@ -34,7 +35,15 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## ✨ Projetos
+
+| Nome do Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| [**Sistema de Tarefas**](https://github.com/caio180/Sistema-de-tarefas) | *Sistema de gerenciamento de tarefas em desenvolvimento, com foco em organização e produtividade.* | `Em desenvolvimento` |
+
+---
+
+## 📊 Estatísticas do GitHub
 
 ![Caio GitHub Stats](https://github-readme-stats.lxk.cool/api?username=caio180&show_icons=true&theme=tokyonight&bg_color=0d1117)
 
@@ -44,13 +53,13 @@
 
 ---
 
-## 🌐 Contato  
+## 🌐 Contato
 
 <div align="center">
 <a href="https://www.linkedin.com/in/caio-lima-viana-004759397/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:caio.lima.viana2009@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
