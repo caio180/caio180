@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1>👋 Bem-vindo ao meu perfil</h1>
+<h1> Bem-vindo ao meu perfil</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2596BE&width=800&lines=👋+Olá,+eu+sou+o+Caio!;🎓+Estudante+técnico+em+Desenvolvimento+de+Sistemas;💻+Focado+em+Desenvolvimento+de+Software;🗄️+Interesse+em+Back-end+e+Banco+de+Dados;🚀+Sempre+aprendendo,+evoluindo+e+desenvolvendo+projetos" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2596BE&width=800&lines=👋+Olá,+eu+sou+o+Caio!;🎓+Estudante+de+Desenvolvimento+de+Sistemas;💻+Focado+em+Desenvolvimento+de+Software;🗄️+Interesse+em+Back-end+e+Banco+de+Dados;🚀+Sempre+aprendendo,+evoluindo+e+desenvolvendo+projetos" />
 </a>
 
 </div>
