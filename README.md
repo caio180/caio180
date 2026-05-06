@@ -40,6 +40,7 @@
 | Nome do Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
 | [**Sistema de Tarefas**](https://github.com/caio180/Sistema-de-tarefas) | *Sistema de gerenciamento de tarefas em desenvolvimento, com foco em organização e produtividade.* | `Em desenvolvimento` |
+| [**Sistema de Cadastro e Login**](https://github.com/caio180/Sistema_cadastro_e_login) | *Sistema de cadastro e login de usuários, em desenvolvimento, com foco em autenticação e gerenciamento de contas.* | `Em desenvolvimento` |
 
 ---
 
