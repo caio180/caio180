@@ -19,7 +19,7 @@ Sou estudante de Desenvolvimento de Sistemas, com foco em Desenvolvimento de Sof
 
 Atualmente, venho aprofundando meus conhecimentos por meio de projetos e estudos contínuos, buscando desenvolver aplicações escaláveis, eficientes e bem estruturadas.
 
-Em busca de uma oportunidade como Desenvolvedor Full Stack ou Desenvolvedor Back-end.
+Em busca de uma oportunidade como Desenvolvedor Full Stack ou Back-end.
 
 ---
 
