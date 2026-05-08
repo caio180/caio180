@@ -1,12 +1,23 @@
 <div align="center">
 
-<h1> Bem-vindo ao meu perfil</h1>
+# Bem-vindo ao meu perfil
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2596BE&width=800&lines=👋+Olá,+eu+sou+o+Caio!;🎓+Estudante+de+Desenvolvimento+de+Sistemas;💻+Focado+em+Desenvolvimento+de+Software;🗄️+Interesse+em+Back-end+e+Banco+de+Dados;🚀+Sempre+aprendendo,+evoluindo+e+desenvolvendo+projetos" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2596BE&center=true&vCenter=true&width=900&lines=👋+Olá,+eu+sou+o+Caio!;🎓+Estudante+de+Desenvolvimento+de+Sistemas;💻+Focado+em+Desenvolvimento+de+Software;🗄️+Interesse+em+Back-end+e+Banco+de+Dados;🚀+Sempre+aprendendo,+evoluindo+e+desenvolvendo+projetos;📌+Buscando+uma+oportunidade+como+Desenvolvedor+Full+Stack+ou+Back-end" 
+    alt="Typing SVG" 
+  />
 </a>
 
 </div>
+
+---
+
+Sou estudante de Desenvolvimento de Sistemas, com foco em Desenvolvimento de Software e grande interesse em Back-end e Banco de Dados.
+
+Atualmente, venho aprofundando meus conhecimentos por meio de projetos e estudos contínuos, buscando desenvolver aplicações escaláveis, eficientes e bem estruturadas, enquanto me preparo para iniciar minha graduação na área de tecnologia.
+
+Em busca de uma oportunidade como Desenvolvedor Full Stack ou Desenvolvedor Back-end.
 
 ---
 
