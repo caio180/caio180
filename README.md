@@ -15,7 +15,7 @@
 
 Sou estudante de Desenvolvimento de Sistemas, com foco em Desenvolvimento de Software e grande interesse em Back-end e Banco de Dados.
 
-Atualmente, venho aprofundando meus conhecimentos por meio de projetos e estudos contínuos, buscando desenvolver aplicações escaláveis, eficientes e bem estruturadas, enquanto me preparo para iniciar minha graduação na área de tecnologia.
+Atualmente, venho aprofundando meus conhecimentos por meio de projetos e estudos contínuos, buscando desenvolver aplicações escaláveis, eficientes e bem estruturadas.
 
 Em busca de uma oportunidade como Desenvolvedor Full Stack ou Desenvolvedor Back-end.
 
