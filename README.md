@@ -3,10 +3,10 @@
 # Bem-vindo ao meu perfil
 
 <a href="https://git.io/typing-svg">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2596BE&center=true&vCenter=true&width=900&lines=👋+Olá,+eu+sou+o+Caio!;🎓+Estudante+de+Desenvolvimento+de+Sistemas;💻+Focado+em+Desenvolvimento+de+Software;🗄️+Interesse+em+Back-end+e+Banco+de+Dados;🚀+Sempre+aprendendo,+evoluindo+e+desenvolvendo+projetos;📌+Buscando+uma+oportunidade+como+Desenvolvedor+Full+Stack+ou+Back-end" 
-    alt="Typing SVG" 
-  />
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2596BE&center=true&vCenter=true&width=900&lines=👋+Olá,+eu+sou+o+Caio!;💻+Desenvolvedor+Full+Stack+em+formação;🚀+Focado+em+Desenvolvimento+de+Software;📚+Sempre+aprendendo,+evoluindo+e+criando+projetos;🎯+Buscando+uma+oportunidade+como+Dev+Full+Stack+ou+Back-end" 
+  alt="Typing SVG" 
+/>
 </a>
 
 </div>
@@ -15,11 +15,13 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas, com foco em Desenvolvimento de Software e grande interesse em Back-end e Banco de Dados.
+Sou Desenvolvedor Full Stack em formação, com foco em Desenvolvimento de Software e grande interesse em Back-end e Banco de Dados.
 
-Atualmente, venho aprofundando meus conhecimentos por meio de projetos e estudos contínuos, buscando desenvolver aplicações escaláveis, eficientes e bem estruturadas.
+Atualmente, venho aprimorando minhas habilidades por meio de projetos práticos e estudos contínuos, buscando desenvolver aplicações escaláveis, eficientes e bem estruturadas.
 
-Em busca de uma oportunidade como Desenvolvedor Full Stack ou Back-end.
+Tenho experiência com tecnologias como React, Node.js, Python, MySQL e Git, sempre buscando evoluir tanto no Front-end quanto no Back-end.
+
+Meu objetivo é conquistar uma oportunidade como Desenvolvedor Full Stack ou Back-end, contribuindo com soluções modernas e adquirindo cada vez mais experiência na área.
 
 ---
 
@@ -28,8 +30,8 @@ Em busca de uma oportunidade como Desenvolvedor Full Stack ou Back-end.
 <div align="center">
 
 ### 🌐 Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 ### 🖥️ Backend & Ferramentas
