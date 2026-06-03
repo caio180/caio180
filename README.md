@@ -56,6 +56,7 @@ Meu objetivo é conquistar uma oportunidade como Desenvolvedor Full Stack ou Bac
 | :--- | :--- | :--- |
 | [**Sistema de Tarefas**](https://github.com/caio180/Sistema-de-tarefas) | *Sistema de gerenciamento de tarefas em desenvolvimento, com foco em organização e produtividade.* | `Em desenvolvimento` |
 | [**Sistema de Cadastro e Login**](https://github.com/caio180/Sistema_cadastro_e_login) | *Sistema de cadastro e login de usuários, em desenvolvimento, com foco em autenticação e gerenciamento de contas.* | `Em desenvolvimento` |
+| [**NextAgro**](https://github.com/caio180/NextAgro) | *Site informativo em desenvolvimento sobre o agronegócio brasileiro, abordando produção agrícola (café e açúcar), sustentabilidade, tecnologia no campo e problemas ambientais, com foco em educação e conscientização sobre o setor agro.* | `Em desenvolvimento` |
 
 ---
 
