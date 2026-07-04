@@ -56,7 +56,7 @@ Meu objetivo é conquistar uma oportunidade como Desenvolvedor Full Stack ou Bac
 | Nome do Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
 | [**Sistema de Cadastro e Login**](https://github.com/caio180/Sistema_cadastro_e_login) | *Sistema de cadastro e login de usuários, em desenvolvimento, com foco em autenticação e gerenciamento de contas.* | `Em desenvolvimento` |
-| [**NextAgro**](https://github.com/caio180/NextAgro) | *Site informativo sobre o agronegócio brasileiro, abordando produção agrícola (café e açúcar), sustentabilidade, tecnologia no campo e problemas ambientais, com foco em educação e conscientização sobre o setor agro.* | `HTML/CSS/JS` `Node.js` `MySQL` |
+| [**NextAgro**](https://github.com/caio180/NextAgro) | *Plataforma informativa sobre o agronegócio brasileiro, abordando produção agrícola (café e cana-de-açúcar), sustentabilidade, tecnologias no campo e impactos ambientais. Projeto com foco educacional e conscientização sobre o setor agro.* | `HTML/CSS/JS` `Node.js` `MySQL` |
 
 ---
 
