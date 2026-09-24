@@ -31,7 +31,8 @@ Tenho experiência com tecnologias como React, Node.js, Python, C, MySQL, Docker
 ### 🌐 Frontend
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-005A9C?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
 ### 🖥️ Backend & Systems
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
