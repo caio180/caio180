@@ -65,7 +65,18 @@ Tenho experiência com tecnologias como React, Node.js, Python, C, MySQL, Docker
 
 ![Caio GitHub Stats](https://github-readme-stats.vercel.app/api?username=caio180&show_icons=true&theme=tokyonight&bg_color=0d1117)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caio180&layout=compact&theme=tokyonight)
+
+
+<img 
+    align="left" 
+    alt="Linguagens e Tecnologias" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio180&theme=tokyonight&layout=compact&custom_title=Linguagens%20e%20Tecnologias&langs_count=9" 
+/>
+
+<br clear="left" />
+
+<br />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=caio180&theme=tokyonight)
 
