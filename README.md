@@ -20,7 +20,7 @@ Sou Desenvolvedor Full Stack, com foco em Desenvolvimento de Software e grande i
 
 Atualmente, venho aprimorando minhas habilidades por meio de projetos práticos e estudos contínuos, buscando desenvolver aplicações escaláveis, eficientes e bem estruturadas.
 
-Tenho experiência com tecnologias como React, Node.js, Python, C, MySQL, Docker e Git, sempre buscando evoluir tanto no Front-end quanto no Back-end.
+Tenho experiência com tecnologias como React, Node.js, Python, MySQL, Docker e Git, sempre buscando evoluir tanto no Front-end quanto no Back-end.
 
 ---
 
