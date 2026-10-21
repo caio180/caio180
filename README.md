@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;color=2596BE&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=👋+Olá,+eu+sou+o+Caio!;💻+Desenvolvedor+Full+Stack;🚀+Focado+em+Desenvolvimento+de+Software;📚+Sempre+aprendendo,+evoluindo+e+criando+projetos"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;color=2596BE&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=👋+Olá,+eu+sou+o+Caio!;💻+Desenvolvedor+Full+Stack"
     alt="Typing SVG"
   />
 </a>
@@ -16,11 +16,19 @@
 
 ## 🚀 Sobre mim
 
-Sou Desenvolvedor Full Stack, com foco em Desenvolvimento de Software e grande interesse em Back-end e Banco de Dados.
+Sou Desenvolvedor Full Stack, com foco em desenvolvimento de software e interesse especial em back-end, bancos de dados e construção de aplicações web.
 
-Atualmente, venho aprimorando minhas habilidades por meio de projetos práticos e estudos contínuos, buscando desenvolver aplicações escaláveis, eficientes e bem estruturadas.
 
-Tenho experiência com tecnologias como React, Node.js, Python, MySQL, Docker e Git, sempre buscando evoluir tanto no Front-end quanto no Back-end.
+
+Busco desenvolver soluções eficientes, funcionais e bem estruturadas, aplicando meus conhecimentos em programação, lógica de desenvolvimento, integração entre sistemas e manipulação de dados. Tenho interesse em compreender diferentes etapas do desenvolvimento de software, desde a criação de interfaces até a implementação de funcionalidades e a integração com bancos de dados e APIs.
+
+
+
+Tenho conhecimentos em tecnologias como React, Node.js, Python e MySQL, além de utilizar Git e Docker no desenvolvimento de aplicações e gerenciamento de ambientes. Utilizo Linux como sistema operacional e ambiente de desenvolvimento, buscando aproveitar suas ferramentas e recursos para aprimorar meu fluxo de trabalho.
+
+
+
+Por meio de estudos contínuos e projetos práticos, procuro aprofundar meus conhecimentos, desenvolver minha capacidade de resolução de problemas e aplicar boas práticas de programação. Valorizo o aprendizado constante, a organização e a colaboração, buscando evoluir profissionalmente e contribuir para a criação de soluções tecnológicas de qualidade.
 
 ---
 
